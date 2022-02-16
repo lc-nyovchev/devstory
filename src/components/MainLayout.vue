@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <v-card>
     Content
-  </div>
+  </v-card>
 </template>
 <script setup>
 </script>
