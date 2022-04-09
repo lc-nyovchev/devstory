@@ -1,4 +1,4 @@
 node_modules
-distgit s
+dist
 yarn-debug.log*
 yarn-error.log*
