@@ -1,6 +1,6 @@
 <template>
 	<v-card>
-		<v-img src="https://www.ecosia.org/images?q=image#id=A6A6599938EFBF34EF4B1266B5DE75D52F6087BC" />
+		<v-img src="https://tse2.mm.bing.net/th?id=OIP.OHQD4CDglISK-pLzB_rb8wHaEK&pid=Api" />
 	</v-card>
 </template>
 <script setup></script>
